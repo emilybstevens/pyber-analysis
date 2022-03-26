@@ -12,15 +12,13 @@ Python 3.7.11
 ### Number of Rides per City by Average Fare
 - Rural cities accounted for the fewest rides and the most expensive fares.
 - Suburban cities accounted for both the middle count and middle expense of rides. 
-- Urban cities accounted for the most rides with the least expensive fares. 
-</br>
+- Urban cities accounted for the most rides with the least expensive fares. </br>
 ![Figure 1](analysis/Fig1.png)
 
 ### Number of Rides by City Type
 - Rural cities accoutned for the fewest number of rides (median = 6). 
 - Suburban cities accounted for the middle number of rides (median = 17). 
-- Urban cities accounted for the greatest number of rides (median = 24). 
-</br>
+- Urban cities accounted for the greatest number of rides (median = 24). </br>
 ![Figure 2](analysis/Fig2.png)
 
 ### % of Total Fares by City Type

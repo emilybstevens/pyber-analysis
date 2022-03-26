@@ -29,6 +29,10 @@ Python 3.7.11
 ![Figure 5](analysis/Fig5.png)
 
 ### % of Total Rides by City Type
+- Rural cities accounted for the smallest portion of total rides (5.3%).
+- Suburban cities accounted for the mid portion of total rides (26.3%). 
+- Urban cities accounted for the largest portion of total rides (68.4%). 
+- Urban cities accounted for a larger portion of total rides than rural and suburban cities combined. 
 ![Figure 6](analysis/Fig6.png)
 
 ### % of Total Drivers by City Type

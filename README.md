@@ -25,7 +25,6 @@ Python 3.7.11
 - Rural cities accounted for the smallest portion of total fares (6.8%). 
 - Suburban cities accounted for the mid portion of total fares (30.5%). 
 - Urban cities accounted for the largest portion of total fares (62.7%). 
-</br>
 - Urban cities accounted for a larger portion of total fares than rural and suburban cities combined. 
 ![Figure 5](analysis/Fig5.png)
 

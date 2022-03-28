@@ -52,16 +52,19 @@ Python 3.7.11
 
 ## Summary
 
+The first recommendation to be made based on the data would be to decrease prices in rural areas. Introducing surge pricing in urban areas might provide enough revenue to cover the costs in rural areas for the time being. </br>
+The second recommendation to be made would be to increase the number of drivers in the area. Introducing heightened rates of pay might be enough to entice more people to sign up as drivers. </br>
+The third recommendation to be made would be to increase advertising in rural areas, specifically targeting rural needs. Both internet and traditional media would be recommended, given rural culture, with more attention being given to traditional means of advertisement (ex: radio, billboard, newspapers, local tv stations). </br></br>
 
-In order to address the disparities in ridesharing between city type, further investigation into the reasons for the disparity NEEDS to be performed. </br></br>
-It should be noted that further analysis should also be performed to determine differences in rideshare proportion against population data to determine if the percent of rural marketshare reflects percent of rural population. 
-If the proportion of rural marketshare matches the population percentage, then it's likely that the product has already reached market saturation in those areas, and business likely will not be able to increase. 
-If the proportions do not match, then further investigation should be done to determine the reasons for the disparity. 
-Even though rural areas have a smaller population, the population there does often need to travel longer distances than the average urban customer. 
-These areas are also signigicantly less likely to adjust to new things quickly, and ridesharing likely falls under that category. </br></br>
-As evidenced above, ridesharing is significantly more expensive than it is in both urban and suburban cities. 
-Given the data analyzed, the strongest recommendation that can be made to increase rides in the area and help rural populations adapt to a new form of transportation would be to significantly decrease the price of rides in the area. 
-Even if the price decrease is only temporary, it might be enough to sway the population into trusting the service. 
-Once trust has been established, and the rural populations have adjusted to ridesharing, heightened prices can be re-established. 
+It should be noted that significant further investigation and data collection NEEDS to be performed in order to ascertain the true reasons behind why rural populations are not taking advantage of the rideshare services. 
+The data provided only reflects the actions of these populations, and not their reasoning. Potential issues that could be preventing rural usage include: 
+- Longer distances in rural areas might be driving up ride costs. The average length at which a ride becomes prohibitively expensive should be determined. 
+- Brand recognition and trust need to be evaluated. Rural areas have a history of being slow to change, and as a result, more work may need to be invested into developing brand recognition in rural areas. 
+- Rideshare accessibility needs to be determined. Many people in rural areas do not have smartphones, and as a result, may not be able to access the company's app. Investigation needs to be performed to determine the rate of smartphone users against the nation's average. 
+- Most importantly, analysis on population ratios has not been performed thus far. In order to determine maximum market saturation in rural areas, the proportions of rural populations against total populations needs to be compared to rural rideshare marketshare against total marketshare. The area is potentially at saturation, and any further attempts at increasing sales in the area could be pointless if the ratios already match. 
+
+
+
+
 
 

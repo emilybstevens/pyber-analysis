@@ -2,7 +2,7 @@
 Analyzing and visualizing rideshare data via matplotlib
 
 ## Overview
-An analysis of ride-share data to uncover trends regarding city type, particularly fare rates. 
+An analysis of ride-share data to uncover trends regarding city type. 
 
 ## Resources
 Matplotlib 3.5.1

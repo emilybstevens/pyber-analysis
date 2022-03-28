@@ -42,6 +42,9 @@ Python 3.7.11
 ![Figure 6](analysis/Fig6.png)
 
 ### % of Total Drivers by City Type
+- Rural cities accounted for the fewest number of drivers (2.6%). 
+- Suburban cities accounted for the mid count of drivers (16.5%). 
+- Urban cities accounted for the greatest number of drivers (80.9%). 
 ![Figure 7](analysis/Fig7.png)
 
 ### Sum of Monthly Fares by City Type

@@ -48,15 +48,19 @@ Python 3.7.11
 ![Figure 7](analysis/Fig7.png)
 
 ### Sum of Monthly Fares by City Type
+- Overall, market sales appear relatively stable over the course of the Q1, with the exception of a small dip near the beginning of January. While the reason for the dip cannot be ascertained based on given data, it would be safe to hypothesize the dip is due to the holidays. 
+- Rural cities account for the smallest collective sum of sales. 
+- Suburban cities account for the middle collective sum of sales. 
+- Urban cities account for the largest collective sum of sales. 
 ![Figure 8](analysis/fig8.png)
 
 ## Summary
 
-The first recommendation to be made based on the data would be to decrease prices in rural areas. Introducing surge pricing in urban areas might provide enough revenue to cover the costs in rural areas for the time being. </br>
-The second recommendation to be made would be to increase the number of drivers in the area. Introducing heightened rates of pay might be enough to entice more people to sign up as drivers. </br>
-The third recommendation to be made would be to increase advertising in rural areas, specifically targeting rural needs. Both internet and traditional media would be recommended, given rural culture, with more attention being given to traditional means of advertisement (ex: radio, billboard, newspapers, local tv stations). </br></br>
+The first recommendation to be made based on the data would be to decrease prices in rural areas. Introducing surge pricing in urban areas might provide enough revenue to cover the costs in rural areas for the time being. </br></br>
+The second recommendation to be made would be to increase the number of drivers in the area. Introducing heightened rates of pay might be enough to entice more people to sign up as drivers. </br></br>
+The third recommendation to be made would be to increase advertising in rural areas, specifically targeting rural needs. Both internet and traditional media would be recommended, given rural culture, with more attention being given to traditional means of advertisement (ex: radio, billboard, newspapers, local tv stations). </br></br></br>
 
-It should be noted that significant further investigation and data collection NEEDS to be performed in order to ascertain the true reasons behind why rural populations are not taking advantage of the rideshare services. 
+It should be noted that significant further investigation and data collection NEEDS to be performed in order to ascertain the true reasons behind WHY rural populations are not taking advantage of the rideshare services. 
 The data provided only reflects the actions of these populations, and not their reasoning. Potential issues that could be preventing rural usage include: 
 - Longer distances in rural areas might be driving up ride costs. The average length at which a ride becomes prohibitively expensive should be determined. 
 - Brand recognition and trust need to be evaluated. Rural areas have a history of being slow to change, and as a result, more work may need to be invested into developing brand recognition in rural areas. 

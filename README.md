@@ -51,3 +51,17 @@ Python 3.7.11
 ![Figure 8](analysis/fig8.png)
 
 ## Summary
+
+
+In order to address the disparities in ridesharing between city type, further investigation into the reasons for the disparity NEEDS to be performed. </br></br>
+It should be noted that further analysis should also be performed to determine differences in rideshare proportion against population data to determine if the percent of rural marketshare reflects percent of rural population. 
+If the proportion of rural marketshare matches the population percentage, then it's likely that the product has already reached market saturation in those areas, and business likely will not be able to increase. 
+If the proportions do not match, then further investigation should be done to determine the reasons for the disparity. 
+Even though rural areas have a smaller population, the population there does often need to travel longer distances than the average urban customer. 
+These areas are also signigicantly less likely to adjust to new things quickly, and ridesharing likely falls under that category. </br></br>
+As evidenced above, ridesharing is significantly more expensive than it is in both urban and suburban cities. 
+Given the data analyzed, the strongest recommendation that can be made to increase rides in the area and help rural populations adapt to a new form of transportation would be to significantly decrease the price of rides in the area. 
+Even if the price decrease is only temporary, it might be enough to sway the population into trusting the service. 
+Once trust has been established, and the rural populations have adjusted to ridesharing, heightened prices can be re-established. 
+
+
